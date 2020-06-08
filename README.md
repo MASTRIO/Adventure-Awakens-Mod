@@ -2,3 +2,4 @@
 The repository for the Earthbound minecraft mod
 
 (Downloading the Zip file will download every version of Earthbound, go to the releases tab to download one specific version)
+(Downloading the source code in the releases section will also download every version, make sure that you download the .jar file instead)
